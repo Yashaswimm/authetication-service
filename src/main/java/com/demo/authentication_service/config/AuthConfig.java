@@ -13,7 +13,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 
 import com.demo.authentication_service.service.CustomUserDetailsService;
-
+//aaa h
 @Configuration
 public class AuthConfig {
 	//i did changed
